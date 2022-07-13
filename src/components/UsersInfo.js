@@ -1,7 +1,7 @@
 const UsersInfo = ({usuario:{nome, idade, profissao}}) => {
     return (
         <div>
-            <h3>Detalhe de Usuario</h3>
+            <h3>Detalhes de Usuários</h3>
             <ul>
                 <li>Nome: {nome}</li>
                 <li>Idade: {idade}</li>
